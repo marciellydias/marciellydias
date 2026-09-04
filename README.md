@@ -1,27 +1,29 @@
+
 <h1 align="center">👋 Hey there! I'm Marcielly</h1>
 
 <p align="center">
-  <b>Python Developer | Backend & Data Enthusiast</b>
+  💻 <b>Python Developer</b> • ⚙️ <b>Backend & Data Enthusiast</b>
 </p>
 
 <p align="center">
-  <i>Also known as Marci.h ✨</i>
+  ✨ <i>Also known as Marci.h</i> ✨
 </p>
 
 ---
 
-### 💻 About Me
+### 👩‍💻 About Me
 
-I'm a Python developer and Computer Science student passionate about programming, backend development, and data.
+🐍 I'm a Python developer and Computer Science student passionate about **programming, backend development, and data**.
 
-I'm currently improving my skills in backend development and building practical projects with Python and its ecosystem.
+🚀 I'm constantly learning and building projects to improve my skills and gain practical experience.
+
+📌 **My main areas of interest:**
 
 * 🐍 Python
-* 🌐 Flask
-* 🗄️ SQLite
-* 📊 Pandas
-* 📓 Jupyter Notebook
-* 🤖 Scikit-learn
+* 🌐 Backend Development
+* 📊 Data Analysis
+* 🤖 Machine Learning
+* 🗄️ Databases
 
 ---
 
@@ -42,23 +44,36 @@ I'm currently improving my skills in backend development and building practical 
 
 ### 📚 Currently Learning
 
-I'm currently focusing on:
+📖 **I'm currently focusing on:**
 
-* Backend development with Python and Flask
-* APIs and web applications
-* Data analysis with Pandas
-* Machine Learning with Scikit-learn
-* Building projects to strengthen my programming skills
+🔹 🌐 Backend development with **Python & Flask**
+🔹 🔌 Building **APIs and web applications**
+🔹 📊 Data analysis with **Pandas**
+🔹 🤖 Machine Learning with **Scikit-learn**
+🔹 🧩 Building projects to strengthen my programming skills
 
 ---
 
 ### 🚀 What I'm Looking For
 
-I'm interested in opportunities where I can learn, develop my skills, and contribute to real-world projects, especially in **Python, Backend Development, Data Analysis, and Machine Learning**.
+🎯I'm interested in opportunities where I can learn, develop my skills, and contribute to real-world projects, especially in Python, Backend Development, Data Analysis, and Machine Learning.
+💡 Especially interested in:
+
+🐍 **Python** • ⚙️ **Backend Development** • 📊 **Data Analysis** • 🤖 **Machine Learning**
 
 ---
 
-### 📫 Contact
+### 🌟 Featured Projects
+
+🚧 *Projects coming soon...*
+
+<p align="center">
+  🔨 Building • 📚 Learning • 🚀 Growing
+</p>
+
+---
+
+### 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:marci.preta@gmail.com">
@@ -69,5 +84,5 @@ I'm interested in opportunities where I can learn, develop my skills, and contri
 ---
 
 <p align="center">
-  <i>💡 Always learning, always building.</i>
+  💜 <i>Always learning, always building.</i> 🚀
 </p>
